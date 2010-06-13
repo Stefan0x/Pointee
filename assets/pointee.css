@@ -1,0 +1,38 @@
+
+
+.pointee_image_select {
+	
+	
+}
+
+input.pointee_select_input {
+}
+
+.pointee-wrapper {
+margin-top: 15px;
+ position: relative;
+}
+
+.pointee-wrapper * {margin: 0; padding: 0;}
+
+.map-wrapper img:hover {cursor: crosshair;} {}
+
+.pointee-marker {
+	display: none;
+	position: absolute; 
+	width: 20px; 
+	height: 27px; 
+	display: block; 
+	background: url(marker.png) no-repeat 0 0;
+	
+}
+
+img.clickable-image {}
+
+.pointee-black {background-position: 0 0;}
+.pointee-blue {background-position:  0 -27px;}
+.pointee-pink {background-position:  0 -54px;}
+.pointee-yellow {background-position:  0 -81px;}
+
+.pointee-wrapper p.coordinates-holder {padding: 10px; display: block;}
+.pointee-wrapper p.coordinates-holder span {margin-right: 15px;}
