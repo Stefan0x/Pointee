@@ -23,9 +23,14 @@
 
 ABOUT
 
-Pointee stores the x & y coordinates of a users click on an image. (think maps, or image tagging)
+Pointee is an EE2 fieldtype which stores the x & y coordinates of a users click on an image. (think maps, or image tagging)
 
 The image can be pre-defined per field, or the user can upload an image per publish using the EE filemanager.
+
+INSTALLATION
+
+1. Download from GitHub and rename the folder to 'pointee'
+2. Drop it in system/expressionengine/third_party and enable the fieldtype.
 
 EXAMPLE USAGE
 
