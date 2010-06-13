@@ -57,7 +57,7 @@ $(document).ready(function(){
 	});
 	
 	$('.pointee_image_select button').click(function() {
-	  $(this).parents('table.pointee_image_select').next('span').text('Please save the entry to view the image');
+	  $(this).parents('table.pointee_image_select').next('span').text('Please save the entry to view the image').show();
 	});
 	
 	

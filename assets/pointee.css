@@ -36,3 +36,5 @@ img.clickable-image {}
 
 .pointee-wrapper p.coordinates-holder {padding: 10px; display: block;}
 .pointee-wrapper p.coordinates-holder span {margin-right: 15px;}
+
+.pointee_notification.notice {display: none;}
